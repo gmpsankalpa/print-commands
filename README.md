@@ -15,7 +15,7 @@ Welcome to the Print Command Examples repository! This space is dedicated to col
 ## Example Format
 
 ### Language: Python
-.
+
     ```python
     # Print to console
     print("Hello, World!")
